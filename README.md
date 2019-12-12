@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Capstone Project: Applied Data Science Capstone
+This repository will include all the files related to the Capstone Project of the Applied Data Science Capstone from IBM/Coursera.
